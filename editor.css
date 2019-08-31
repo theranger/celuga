@@ -1,0 +1,11 @@
+@import url('style.css');
+
+html,
+body,
+#page {
+	background-color: #fff;
+}
+
+body {
+	padding: 9px 18px 0;
+}
